@@ -26,6 +26,9 @@
 ![image](https://github.com/user-attachments/assets/6b062497-ff0b-426c-9f56-9b64ebae1598)
 
 
+https://github.com/user-attachments/assets/4111daa5-196c-42a9-8d32-2a9fd2e26c62
+- So in the above video we may see how the EV is moving that is the wheels are rotating whith the help of Wireless Power Transfer.
+
 ## Future Enhancements
 
 - **Integration with renewable energy sources**.
